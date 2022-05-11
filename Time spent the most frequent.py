@@ -17,3 +17,7 @@ print(most_frequent(numbers))
 end = timeit.timeit()
 print("Time: ", end - start)
 
+# 2
+# Time:  -0.0018769000000702363
+
+
